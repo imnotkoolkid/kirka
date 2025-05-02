@@ -120,6 +120,18 @@
       "downloadUrl": ""
     },
     {
+      "title": "Discord Dark",
+      "description": "Clean simple css thats easy on eyes",
+      "homeImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/Discord%20Dark.webp",
+      "ingameImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/css/Discord%20Dark.css",
+      "tags": ["Minimal", "Black", "Simple"],
+      "availability": "free",
+      "owner": "Scymic",
+      "discord": "https://discorddrop.netlify.app/?wait=1&id=666443021369475073",
+      "label": "",
+      "downloadUrl": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/css/Discord%20Dark.css"
+    },
+    {
       "title": "Monochrome",
       "description": "Dark monochromatic & very minimal theme",
       "homeImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/Monochrome.webp",
