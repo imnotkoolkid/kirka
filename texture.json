@@ -57,6 +57,17 @@
         "id": "image_1",
         "discord": ""
     },
+        {
+        "owner": "Grinox",
+        "tags": [
+            "Blue",
+            "Dark",
+            "Smooth"
+        ],
+        "textureImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/textures/image.png",
+        "id": "image_14",
+        "discord": "https://discorddrop.netlify.app/?wait=1&id=1269597878532309054"
+    },
     {
         "owner": "Unknown",
         "tags": [
