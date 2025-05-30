@@ -239,6 +239,18 @@
       "label": "",
       "downloadUrl": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/css/tokyo%20ghoul.css"
     },
+     {
+      "title": "PurpleHour",
+      "description": "Dominant purples and blacks take over!",
+      "homeImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/PurpleHour.webp",
+      "ingameImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/PurpleHour_ingame.webp",
+      "tags": ["Purple", "Dark", "Grunge"],
+      "availability": "free",
+      "owner": "SniperCAT",
+      "discord": "https://discorddrop.netlify.app/?wait=1&id=833924945302126594",
+      "label": "",
+      "downloadUrl": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/css/PurpleHour.css"
+    },
     {
       "title": "At The Beach",
       "description": "Warm and Chill anime css ",
@@ -262,6 +274,18 @@
       "discord": "https://discorddrop.netlify.app/?wait=1&id=1306198758421168178",
       "label": "",
       "downloadUrl": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/css/cat%20gamer.css"
+    },
+    {
+      "title": "SolarFlare",
+      "description": "Deep oranges and black grid visuals make up a slick, futuristic world in solar light",
+      "homeImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/SolarFlare.webp",
+      "ingameImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/SolarFlare_ingame.webp",
+      "tags": ["Orange", "Bright", "RetroFuture"],
+      "availability": "free",
+      "owner": "SniperCAT",
+      "discord": "https://discorddrop.netlify.app/?wait=1&id=833924945302126594",
+      "label": "",
+      "downloadUrl": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/css/SolarFlare.css"
     },
     {
       "title": "B L A N K ",
