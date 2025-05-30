@@ -144,6 +144,18 @@
       "downloadUrl": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/css/monochrome.css"
     },
     {
+      "title": "PurpleHour",
+      "description": "Dominant purples and blacks take over!",
+      "homeImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/PurpleHour.webp",
+      "ingameImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/PurpleHour_ingame.webp",
+      "tags": ["Purple", "Dark", "Grunge"],
+      "availability": "free",
+      "owner": "SniperCAT",
+      "discord": "https://discorddrop.netlify.app/?wait=1&id=833924945302126594",
+      "label": "",
+      "downloadUrl": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/css/PurpleHour.css"
+    },
+    {
       "title": "Jett",
       "description": "Cyber-fantasy theme with Futuristic backdrop",
       "homeImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/jett.webp",
@@ -238,18 +250,6 @@
       "discord": "https://discorddrop.netlify.app/?wait=1&id=1191047668542218370",
       "label": "",
       "downloadUrl": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/css/tokyo%20ghoul.css"
-    },
-     {
-      "title": "PurpleHour",
-      "description": "Dominant purples and blacks take over!",
-      "homeImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/PurpleHour.webp",
-      "ingameImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/PurpleHour_ingame.webp",
-      "tags": ["Purple", "Dark", "Grunge"],
-      "availability": "free",
-      "owner": "SniperCAT",
-      "discord": "https://discorddrop.netlify.app/?wait=1&id=833924945302126594",
-      "label": "",
-      "downloadUrl": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/css/PurpleHour.css"
     },
     {
       "title": "At The Beach",
