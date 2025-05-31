@@ -80,6 +80,17 @@
         "discord": "",
         "label": "featured"
     },
+     {
+        "owner": "Grinox",
+        "tags": [
+            "Bright",
+            "De-saturated",
+            "Smooth"
+        ],
+        "textureImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/textures/img(19).webp",
+        "id": "image_19",
+        "discord": "https://discorddrop.netlify.app/?wait=1&id=1269597878532309054"
+    },
     {
         "owner": "Unknown",
         "tags": [
