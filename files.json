@@ -108,6 +108,18 @@
       "downloadUrl": ""
     },
     {
+      "title": "ShootingStars",
+      "description": "A dark minimal stars theme with a lot of animated things.",
+      "homeImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/shootingstars.webp",
+      "ingameImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/shootingstars_ingame.webp",
+      "tags": ["Dark", "Stars", "Minimal"],
+      "availability": "paid",
+      "owner": "Mitsu",
+      "discord": "https://discorddrop.netlify.app/?wait=1&id=1295867897268404296",
+      "label": "",
+      "downloadUrl": ""
+    },
+    {
       "title": "sagefps",
       "description": "Worn out textured background with splattered paint effects and metallic logo",
       "homeImage": "https://raw.githubusercontent.com/imnotkoolkid/custom-kirka/refs/heads/main/images/sagefps.webp",
